@@ -410,6 +410,7 @@ width: 50%;
 border-radius:40px;
 font-weight:bold;
 margin:2vh 0px;
+Display:hidden;
 }
 #box a i{
 position: absolute;
