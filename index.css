@@ -421,9 +421,3 @@ Top: 50%;
 Transform: translate(-50%,-50%);
 align-items: center;
 }
-.tel:hover{
-Background-color: rgb(255,44,90);
-Width: 100%;
-Height: 100%;
-Text-color: white;
-}
