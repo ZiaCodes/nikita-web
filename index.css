@@ -425,3 +425,7 @@ align-items: center;
 Background: black;}
 .btn-one .btn-two{
 Display: inline-block;
+Height: 10px;
+Width: 20px;
+Background-color: black;
+Border-radius: 5px;}
