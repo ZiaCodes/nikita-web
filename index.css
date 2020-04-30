@@ -414,7 +414,6 @@ Display: none;
 }
 #box a i{
 position: absolute;
-Display: flex;
 font-size: 120px;
 Color: rgb(255, 44, 90);
 Left: 50%;
@@ -424,3 +423,5 @@ align-items: center;
 }
 #box:hover{
 Background: black;}
+.btn-one .btn-two{
+Display: inline-block;
