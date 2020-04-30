@@ -422,10 +422,12 @@ Transform: translate(-50%,-50%);
 align-items: center;
 }
 #box:hover{
-Background: black;}
-.btn-one .btn-two{
+Background: black;
+}
+.btn-two{
 Display: inline-block;
 Height: 10px;
 Width: 20px;
 Background-color: black;
-Border-radius: 5px;}
+Border-radius: 5px;
+}
