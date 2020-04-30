@@ -394,11 +394,17 @@ button:focus {
 
 #box{
 position: absolute;
-Width: 800px;
-Height: 400px;
+Width: 400px;
+Height: 200px;
 Background-color: pink;
 Left: 50%;
 Top: 50%;
 Transform: translate(-50%,-50%);
+z-index: 9999;
+Text-align: center;
 Overflow: hidden;
+}
+#box h1{
+font-size: 25px;
+Color: white;
 }
