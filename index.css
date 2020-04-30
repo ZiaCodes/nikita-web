@@ -396,13 +396,20 @@ button:focus {
 position: absolute;
 Width: 400px;
 Height: 200px;
-Background-color: pink;
 Left: 50%;
 Top: 50%;
 Transform: translate(-50%,-50%);
 z-index: 9999;
 Text-align: center;
 Overflow: hidden;
+color:rgb(255, 44, 90);
+background:#fff;
+border:3px solid rgb(255, 44, 90);
+padding:8px 40px;
+width:35%;
+border-radius:80px;
+font-weight:bold;
+margin:2vh 0px;
 }
 #box h1{
 font-size: 25px;
