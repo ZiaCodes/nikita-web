@@ -412,7 +412,11 @@ font-weight:bold;
 margin:2vh 0px;
 }
 #box a{
+position: absolute;
+Display: block;
 font-size: 55px;
-Background: rgb(255, 44, 90);
-Padding:  10px 8px;
+Color: rgb(255, 44, 90);
+Left: 50%;
+Top: 30%;
+Transform: translate(-30%,-50%);
 }
