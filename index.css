@@ -389,3 +389,16 @@ button:focus {
         color:#000;
     }
 }
+
+
+
+#box{
+position: absolute;
+Width: 800px;
+Height: 400px;
+Background-color: pink;
+Left: 50%;
+Top: 50%;
+Transform: translate(-50%,-50%);
+Overflow: hidden;
+}
