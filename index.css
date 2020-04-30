@@ -413,7 +413,7 @@ margin:2vh 0px;
 }
 #box a i{
 position: absolute;
-Display: inline-block;
+Display: flex;
 font-size: 55px;
 Color: rgb(255, 44, 90);
 Left: 50%;
