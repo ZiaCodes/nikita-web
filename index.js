@@ -67,6 +67,9 @@ $(document).ready(function(){
 
 
 
+//Typewriter Js Start from here.
+
+
 const TypeWritter = function (txtElement, words, wait = 3000) {
     this.txtElement = txtElement;
     this.words = words;
@@ -132,24 +135,4 @@ function init() {
     new TypeWritter(txtElement, words, wait);
 }
   
-
-
-
-$('#Notice').click(function () {
-    new jBox('Notice', {
-      theme: 'NoticeFancy',
-      attributes: {
-        x: 'left',
-        y: 'bottom'
-      },
-      color: getColor(),
-      content: 'Hello, I\'m down here',
-      audio: 'bling2',
-      volume: 80,
-      animation: {
-        open: 'slide:bottom',
-        close: 'slide:left'
-      }
-    });
-  });
 
