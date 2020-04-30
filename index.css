@@ -414,10 +414,12 @@ margin:2vh 0px;
 #box a i{
 position: absolute;
 Display: flex;
-font-size: 75px;
+font-size: 120px;
 Color: rgb(255, 44, 90);
 Left: 50%;
 Top: 50%;
 Transform: translate(-50%,-50%);
 align-items: center;
 }
+#box:hover{
+Background: black;}
