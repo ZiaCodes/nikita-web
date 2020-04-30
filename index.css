@@ -411,7 +411,8 @@ border-radius:40px;
 font-weight:bold;
 margin:2vh 0px;
 }
-#box h1{
-font-size: 20px;
-Color: Black;
+#box a{
+font-size: 55px;
+Background: rgb(255, 44, 90);
+Padding:  10px 8px;
 }
